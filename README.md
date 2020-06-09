@@ -1,16 +1,11 @@
 # uas_mobile
+Nama : Filippo Arnoldi
+NIM : 20165520017
 
-A new Flutter application.
+Teknik Informatika
+Matana University 
 
-## Getting Started
+## Latar Belakang
+LOONA (LOOΠΔ – 이달의 소녀) adalah girl group asal Korea Selatan yang terdiri dari 12 member: Haseul, Vivi, Yves, JinSoul, Kim Lip, Chuu, Heejin, Hyunjin, Go Won, Choerry, Olivia Hye and Yeojin. Loona ada dibawah naungan agensi Blockberry Creative. Mereka debut pada 20 Agustus 2018 dengan title track mereka “Hi High”.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Aplikasi ini ditujukan bagi para fans baru LOONA atau Orbit (sebutan untuk fandom LOONA) yang ingin mengetahui dan mengenal lebih dalam soal apa dan siapa itu LOONA.
