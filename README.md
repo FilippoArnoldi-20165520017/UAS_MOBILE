@@ -1,6 +1,5 @@
 # uas_mobile
-Nama : Filippo Arnoldi
-NIM : 20165520017
+Nama : Filippo Arnoldi, NIM : 20165520017
 
 Teknik Informatika
 Matana University 
